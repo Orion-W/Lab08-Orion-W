@@ -22,7 +22,7 @@ public class CustomList {
         cities.remove(city);
     }
 
-    
+
 
     
 
